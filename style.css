@@ -4,5 +4,9 @@
     box-sizing: border-box;
 }
 h1{
+<<<<<<< HEAD
     color: green;
+=======
+    color: blue;
+>>>>>>> c6d4dc14b78609385822ba4514cdee10f098b430
 }
